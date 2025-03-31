@@ -56,7 +56,7 @@ export default function About() {
               will acquire new knowledge and meet all assigned targets.
             </p>
             <p className="text-muted-foreground">
-              With experience as a Backend Developer at FLOW IDRA LIMITED since June 2022, I've designed databases,
+              With experience as a Fullstack Developer at FLOW IDRA LIMITED since June 2022, I've designed databases,
               managed project logic based on customer requests, built reusable code, and created RESTful APIs for
               various web applications.
             </p>

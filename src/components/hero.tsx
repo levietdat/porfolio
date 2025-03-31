@@ -38,7 +38,7 @@ export default function Hero() {
               Viet Dat
             </span>
           </h1>
-          <h2 className="text-xl text-muted-foreground sm:text-2xl">Backend Developer</h2>
+          <h2 className="text-xl text-muted-foreground sm:text-2xl">Fullstack Developer</h2>
         </motion.div>
 
         <motion.p
